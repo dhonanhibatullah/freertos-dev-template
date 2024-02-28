@@ -1,5 +1,5 @@
 # **freertos-dev-template**
-This is my universal template for developing with FreeRTOS on the Arduino IDE. The template can help you keep your FreeRTOS-based firmware modular and easy to develop without stressing about how you should write the code!
+This is my universal template for developing FreeRTOS-based firmware on the Arduino IDE. The template can help you keep your FreeRTOS-based firmware modular and easy to develop without stressing about how you should write the code!
 
 ## **Note**
 Read the ```commented``` version if you want to know the reason behind the template. Please read the template code in the following order:
